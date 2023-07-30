@@ -10,7 +10,7 @@ const ContactList = ({ contacts, onDeleteContact }) => {
         </li>
       ))}
     </ul>
-  );
+  )
 };
 
 export default ContactList;
